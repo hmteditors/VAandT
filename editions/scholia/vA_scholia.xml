@@ -3,19 +3,19 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Scholia to Escorial Upsilon 1.1</title>
+                <title>Scholia to Venetus B</title>
                 <author>YOUR NAME HERE</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
             </publicationStmt>
             <sourceDesc>
-                <p>Transcribed from Upsilon 1.1 MS</p>
+                <p>Transcribed from Venetus B MS</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="10">
+        <group n="15">
             <text n="msA">
                 <body>
                     <div n="PAGE_1" type="scholion">
@@ -23,7 +23,7 @@
                             <p></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.SCHOLION_ID</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.SCHOLION_ID</p>
                         </div>
                         <div n="comment">
                             <p></p>
