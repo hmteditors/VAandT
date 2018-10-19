@@ -29,6 +29,28 @@
                             <p>ὅρα τὸ ἀντίθετον πῶς ἐδήλωσεν ἑνὶ ῥήματι <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρῶες</rs> ἔχον- <rs type="ethnic" n="urn:cite2:hmt:place:place96">Ἀχαιοὺς</rs> ἔχε⁑</p>
                         </div>
                     </div>
+                    <div n="2" type="scholion">
+                        <div n="lemma">
+                            <p>φύζα:</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.2</p>
+                        </div>
+                        <div n="comment">
+                            <p>ἀεὶ μὲν ἡ μετὰ δέους φυγή - ὅθεν καὶ φυζακεινῇς ἐλάφοισι - νῦν δὲ, ἔκπληξις - ἀπολογεῖται δὲ ὅτι ἐκ θεῶν κρυόσεις φόβος. ὁ φοβερός - τὸ θερμὸν γὰρ ἐπιλείπει τοὺς δεδιότας⁑</p>
+                        </div>
+                    </div>
+                    <div n="3" type="scholion">
+                        <div n="lemma">
+                            <p>ὀκρυόεντος:</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.2</p>
+                        </div>
+                        <div n="comment">
+                            <p>φρικτοῦ φοβεροῦ - συμβαίνει γὰρ τοὺς δεδιότας συγκρουεῖν τοὺς ὀδόντας : λιτὰς - τὴν ῥαψωδίαν καλοῦσιν - ἐπειδὴ δὲ οἱ <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρῶες</rs> ἐκπαραδόξου νικῶσι - βέλεσι Διὸς - οὐκ /\/\οἰκείᾳ δυνάμει. παντὶ πόνω τὴν ψυχὴν /\φυλάτ/\ παρεμβολὴν ἐπὶ τῷ ναστάθμῳ ποιούμενοι - τοῖς δὲ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers14"><choice><abbr>Ἕλλη</abbr><expan>Ἕλλησι</expan></choice></rs> ἅπαντα /\/\δυσχησῆ/\/\ - ὅτἂν δὲ ἄλλων πραγμάτων ἄρχεσθαι /\μέγγη/\ παρεγγραφὰς ἐμβάλλει - ὡς οἱ νόμοι τῶν ἱστοριογράφων ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
