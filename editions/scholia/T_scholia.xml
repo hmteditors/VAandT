@@ -73,6 +73,17 @@
                             <p>διττὰ γὰρ αὐτοὺς ἐλύπει - ἔκπληξις τῶν παρόντων - καὶ δέος τῶν μελλόντων - <cit><ref>urn:cts:greekLit:tlg0012.tlg001:16.103</ref><q>οἱ δεὸν <persName n="urn:cite2:hmt:pers:pers8">Ζηνός</persName> τε νόος καὶ <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρῶες</rs> ἀγαυοί</q></cit> - ὡς δ' ἄνεμοι - ἢ ὡς <persName n="urn:cite2:hmt:pers.v1:pers21"><abbr>Ἀριστοφά</abbr><expan>Ἀριστοφάνης</expan></persName> - <q>ὡς δ' ἀνέμω - ἐλθόντ' ἐξαπίνης</q> - σφοδρότεραι γὰρ αἱ αἰφνίδιοι τῶν ἀνέμων ἐμβολαί⁑</p>
                         </div>
                     </div>
+                    <div n="5" type="scholion">
+                        <div n="lemma">
+                            <p>τώτε <placeName n="urn:cite2:hmt:place:place70"><choice><abbr>θρῄκηθ</abbr><expan>θρῄκηθεν</expan></choice></placeName>:</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.5</p>
+                        </div>
+                        <div n="comment">
+                            <p>οἱ μὲν συνεκδοχικῶσ - ὡς ὅσοι <choice><abbr>βεβλήατ</abbr><expan>βεβλήατo</expan></choice> χαλκῷ - ὁι δὲ ὅτι οἰκητήριον τῶν ἀνέμων ἡ <placeName n="urn:cite2:hmt:place:place70">θράκη</placeName> - ἐυωχεῖται /\/\ οὖν παρὰ <persName n= "urn:cite2:hmt:pers:pers320">ζεφύρω</persName> ἑν <placeName n="urn:cite2:hmt:place:place70">θράκῃ</placeName> - ἔστιν οὖν ἐλθόντ ἀπο <placeName n="urn:cite2:hmt:place:place70">θρᾴκης</placeName> ἄητον ὅθη ἑκάτερος εἴωθεν πνεῖν - ἢ ὅτι ἡ τῶν <placeName n="urn:cite2:hmt:place:place70">θρᾴκῶν</placeName> γῆ σιγματοειδῶς κεὶται - καὶ ἐπὶπολυδιήκει μέχρι τῆς δύσεως - ἀφ'ἑκατέρου οὖν μέρους τῶν ἀνέμων. ἔχει ἑκάτερος⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
