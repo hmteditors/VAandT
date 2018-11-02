@@ -23,10 +23,55 @@
                             <p></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.1</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.2@θεσπεσίη</p>
                         </div>
                         <div n="comment">
-                            <p>⁑</p>
+                            <p>ἢ βουλήσει θεῶν <choice><abbr>προγεγενημέ</abbr><expan>προγεγενημένη</expan></choice> - ὡς καὶ ἀλλαχοῦ -  ἢ καὶ θεσπεσίη <cit><ref>urn:cts:greekLit:tlg0012.tgl001:2.367</ref><q>
+                              <choice><abbr>πο</abbr><expan>πόλιν</expan></choice> οὐκ ἀλαπάξεις - ἢ ἀνδρῶν κακότητι</q></cit>⁑</p>
+                        </div>
+                    </div>
+                    <div n="2" type="scholion">
+                        <div n="lemma">
+                            <p></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.3@ἀτλήτῳ</p>
+                        </div>
+                        <div n="comment">
+                            <p>ἀνυπομονήτω ἀφορήτω⁑</p>
+                        </div>
+                    </div>
+                    <div n="3" type="scholion">
+                        <div n="lemma">
+                            <p></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.5@Ζέφυρος</p>
+                        </div>
+                        <div n="comment">
+                            <p>ὁ τὰ πρὸς το ζῆν φέρων - ἔαρος γὰρ ἄρχεται πνεῖν - ⁑</p>
+                        </div>
+                    </div>
+                    <div n="4" type="scholion">
+                        <div n="lemma">
+                            <p></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.6@ἐξαπίνης</p>
+                        </div>
+                        <div n="comment">
+                            <p>ἅμα τῷ πνεῦσαι τοὺς ἀνέμους - ⁑</p>
+                        </div>
+                    </div>
+                    <div n="5" type="scholion">
+                        <div n="lemma">
+                            <p></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.6@κελαινὸν</p>
+                        </div>
+                        <div n="comment">
+                            <p>μέλαν ἢ φοβερόν - ⁑</p>
                         </div>
                     </div>
                 </body>
