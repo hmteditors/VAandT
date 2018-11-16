@@ -70,7 +70,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.4-9.6</p>
                         </div>
                         <div n="comment">
-                            <p>διττὰ γὰρ αὐτοὺς ἐλύπει - ἔκπληξις τῶν παρόντων - καὶ δέος τῶν μελλόντων - <cit><ref>urn:cts:greekLit:tlg0012.tlg001:16.103</ref><q>οἱ δεὸν <persName n="urn:cite2:hmt:pers:pers8">Ζηνός</persName> τε νόος καὶ <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρῶες</rs> ἀγαυοί</q></cit> - ὡς δ' ἄνεμοι - ἢ ὡς <persName n="urn:cite2:hmt:pers.v1:pers21"><abbr>Ἀριστοφά</abbr><expan>Ἀριστοφάνης</expan></persName> - <q>ὡς δ' ἀνέμω - ἐλθόντ' ἐξαπίνης</q> - σφοδρότεραι γὰρ αἱ αἰφνίδιοι τῶν ἀνέμων ἐμβολαί⁑</p>
+                            <p>διττὰ γὰρ αὐτοὺς ἐλύπει - ἔκπληξις τῶν παρόντων - καὶ δέος τῶν μελλόντων - <cit><ref type = "urn">urn:cts:greekLit:tlg0012.tlg001:16.103</ref><q>οἱ δεὸν <persName n="urn:cite2:hmt:pers:pers8">Ζηνός</persName> τε νόος καὶ <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρῶες</rs> ἀγαυοί</q></cit> - ὡς δ' ἄνεμοι - ἢ ὡς <persName n="urn:cite2:hmt:pers.v1:pers21"><abbr>Ἀριστοφά</abbr><expan>Ἀριστοφάνης</expan></persName> - <q>ὡς δ' ἀνέμω - ἐλθόντ' ἐξαπίνης</q> - σφοδρότεραι γὰρ αἱ αἰφνίδιοι τῶν ἀνέμων ἐμβολαί⁑</p>
                         </div>
                     </div>
                     <div n="6" type="scholion">
@@ -93,6 +93,17 @@
                         </div>
                         <div n="comment">
                             <p>ψιλωτέον τὸ <q>ἄμυδις</q> - Αἰολικὸν γὰρ καὶ <choice><abbr>πνα</abbr><expan>πνεῦμα</expan></choice> καὶ τόνον ἀνεδέξατο - ὁμοίως τῷ <q>ἄμυδις</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="8" type="scholion">
+                        <div n="lemma">
+                            <p>παρέξ:</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.7</p>
+                        </div>
+                        <div n="comment">
+                            <p>δύο εἰσὶ προθέσεις - ἀμέλει καὶ τρέπεται τὸ <waw>ξ</waw>εἰς <waw>κ</waw> - <cit><ref type ="urn">urn:cts:greekLit:tlg0012.tlg002:16.165</ref><q>παρεκ μέγα</q></cit> - <cit><ref type ="urn">urn:cts:greekLit:tlg0012.tlg001:10.391</ref><q>παρεκ νόον</q></cit> - <cit><ref type ="urn">urn:cts:greekLit:tlg0012.tlg001:10.349</ref><q>παρεξ οδοῦ</q></cit> - <cit><ref type ="urn">urn:cts:greekLit:tlg0012.tlg002:17.139</ref><q>παρεξ είποιμι</q></cit> - <cit><ref type ="urn">urn:cts:greekLit:tlg0012.tlg001:12.213</ref><q>παρὲξ ἀγορευέμεν</q></cit> - τινὲς δὲ ἓν <choice><abbr>μέ</abbr><expan>μέρος</expan></choice> <choice><abbr>λόγ</abbr><expan>λόγου</expan></choice> - /\/\ἀλλὰ παρὲξ τὼν νῆσον στῆ δὲ παρέξ - Τρῶες δε Ε/\/\ - ὅπερ ιν - <choice><abbr>επίρρημ</abbr><expan>επίρρημα</expan></choice> - ιν δὲ καὶ πάρεξ ὃ γενικη/\/\ <choice><abbr>θέλ</abbr><expan>θέλει</expan></choice> συντάσσεσθαι - μετὰ τὴν διὰ δὲ οὖσα ἡ <waw>εξ</waw> - <choice><abbr>οὐδέποτ</abbr><expan>οὐδέποτε</expan></choice> <choice><abbr>τρέπ</abbr><expan>τρέπει</expan></choice> τὸ <waw>ξ</waw> τὸ δὲ ἐξῆσ οὕτως - πολλὸν δὲ παρα την ἅλα φῦκος ἐξέχυεν</p>
                         </div>
                     </div>
                 </body>
