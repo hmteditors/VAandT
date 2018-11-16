@@ -26,7 +26,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.2@θεσπεσίη</p>
                         </div>
                         <div n="comment">
-                            <p>ἢ βουλήσει θεῶν <choice><abbr>προγεγενημέ</abbr><expan>προγεγενημένη</expan></choice> - ὡς καὶ ἀλλαχοῦ -  ἢ καὶ θεσπεσίη <cit><ref>urn:cts:greekLit:tlg0012.tgl001:2.367</ref><q>
+                            <p>ἢ βουλήσει θεῶν <choice><abbr>προγεγενημέ</abbr><expan>προγεγενημένη</expan></choice> - ὡς καὶ ἀλλαχοῦ -  ἢ καὶ θεσπεσίη <cit><ref type="urn">urn:cts:greekLit:tlg0012.tgl001:2.367</ref><q>
                               <choice><abbr>πο</abbr><expan>πόλιν</expan></choice> οὐκ ἀλαπάξεις - ἢ ἀνδρῶν κακότητι</q></cit>⁑</p>
                         </div>
                     </div>
