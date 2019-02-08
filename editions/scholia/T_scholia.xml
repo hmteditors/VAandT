@@ -185,13 +185,24 @@
                    </div>
                    <div n="16" type="scholion">
                        <div n="lemma">
-                           <p>ὦ φίλοι Ἀργείων ἡγέτορες:</p>
+                           <p>ὦ φίλοι <rs type="ethnic" n="urn:cite2:hmt:place:place114">Ἀργείων</rs> ἡγέτορες:</p>
                        </div>
                        <div n="ref">
                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.17</p>
                        </div>
                        <div n="comment">
-                           <p>οὐ πρὸς τὸ πλῆθος ἀποτείνεται - ἐπειὸν καὶ ἡγεμόνες μόνοι εἰσὶν οἱ παρόντες - τὴν μὲν πρώτην πείραν ὁ Ἀγαμέμνων σύμπαντος τοῦ πλήθους ἐποιεῖτο - καὶ ὦ φίλοι ἥρωες Δαναοὶ θεράποντες Ἄρηος ἔλεγεν - νῦν δὲ ταύτην δευτέραν πείραν εἰς τοὺς Ἀργείων ἡγέμονας <choice><abbr>φέρ</abbr><expan>φέρει</expan></choice>. δεδοικὼς μὴ καὶ τούτων τὴν γνώμην ἡγενομένη ἧττα καὶ ὁ παρὰ τοῦ Διὸς φόβος ἀνέτρεψεν - ὅτι γὰρ ἀποπειρωμένου καὶ ἡ σδφγ αὔτη. δῆλον μὲν καὶ ἐξ ὧν Ἀγαμέμνων τὴν τοῦ Διομήδους ἐπί </p>
+                           <p>οὐ πρὸς τὸ πλῆθος ἀποτείνεται - ἐπειὸν καὶ ἡγεμόνες μόνοι εἰσὶν οἱ παρόντες - τὴν μὲν πρώτην πείραν ὁ <persName n="urn:cite2:hmt:pers:pers22">Ἀγαμέμνων</persName> σύμπαντος τοῦ πλήθους ἐποιεῖτο - καὶ <cit><q>/\/\ὦ φίλοι ἥρωες <rs type="ethnic" n="urn:cite2:hmt:pers:pers66">Δαναοὶ</rs> θεράποντες <persName n="urn:cite2:hmt:pers:pers83">Ἄρηος</persName>/\/\</q></cit> ἔλεγεν - νῦν δὲ ταύτην δευτέραν πείραν εἰς τοὺς <rs type="ethnic" n="urn:cite2:hmt:place:place114">Ἀργείων</rs> ἡγέμονας <choice><abbr>φέρ</abbr><expan>φέρει</expan></choice>. δεδοικὼς μὴ καὶ τούτων τὴν γνώμην ἡ γενομένη ἧττα καὶ ὁ παρὰ τοῦ <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> φόβος ἀνέτρεψεν - ὅτι γὰρ ἀποπειρωμένου καὶ ἡ σύνοδιος αὕτη. δῆλον μὲν καὶ ἐξ ὧν <persName n="urn:cite2:hmt:pers:pers22">Ἀγαμέμνων</persName> τὴν τοῦ <persName n="urn:cite2:hmt:pers:pers215">Διομήδους</persName> ἐπίπληξιν φέρει - οὐκ ἐνεγκὼν τὴν τοῦ κρείττονος <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέως</persName> δικαιολογίαν - δῆλον δὲ καὶ ἐξ ὧν ὁ <persName n="urn:cite2:hmt:pers:pers117">Νέστωρ</persName> ὡς τὴν τοῦ βασιλέως γνώμην ἐπιστάμενος τὸν <persName n="urn:cite2:hmt:pers:pers215">Διομήδην</persName> ἐπαινεῖ - πρότερον ἐπιτιμήσας <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεῖ</persName>⁑</p>
+                       </div>
+                   </div>
+                   <div n="17" type="scholion">
+                       <div n="lemma">
+                           <p><persName n="urn:cite2:hmt:pers:pers8">Ζεύς</persName> με μέγα:</p>
+                       </div>
+                       <div n="ref">
+                           <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.18</p>
+                       </div>
+                       <div n="comment">
+                           <p>σὺν τῷ <rs type="waw">σ</rs> τὸ <q>μέγας</q>⁑</p>
                        </div>
                    </div>
                 </body>
