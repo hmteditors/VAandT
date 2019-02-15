@@ -205,6 +205,74 @@
                            <p>σὺν τῷ <rs type="waw">σ</rs> τὸ <q>μέγας</q>⁑</p>
                        </div>
                    </div>
+                   <div n="18" type="scholion">
+                       <div n="lemma">
+                           <p>ὅς πρὶν μέν μοι</p>
+                       </div>
+                       <div n="ref">
+                           <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.19</p>
+                       </div>
+                       <div n="comment">
+                           <p><q>ὃς τότε μέν μοι οὕτως</q> <persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Ἀρίσταρχ</abbr><expan></expan></choice></persName>- ὅτε τὸν ὄνειρον ἔπεψεν- ἐκεῖ δὲ πρὶν, διὰ τὸ ἀστράπτων ἐπιδέξια- γράφεται δὲ καὶ <choice><abbr>ἐνταῦθ</abbr><expan>ἐνταῦθα</expan></choice>- ὃ πρὶν μέν μοι⁑</p>
+                       </div>
+                       <div n="19" type="scholion">
+                           <div n="lemma">
+                               <p>καί με κελεύει <choice><abbr>δυσκλε</abbr><expan>δυσκλεα</expan></choice>:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.21-9.22</p>
+                           </div>
+                           <div n="comment">
+                               <p>κελεύει διὰ τοῦ κεραυνοῦ⁑</p>
+                           </div>
+                       </div>
+                       <div n="20" type="scholion">
+                           <div n="lemma">
+                               <p>οὕτω που <persName n="urn:cite2:hmt:pers:pers8">διῒ</persName> μέλλει:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.23</p>
+                           </div>
+                           <div n="comment">
+                               <p>παρὰ τῷ <persName n="urn:cite2:hmt:pers:pers15">Ζενοδότῳ</persName> οὐκ ἐφέροντο οἱ τρεῖς- καὶ <persName n="urn:cite2:hmt:pers:pers300">Ἀριστότελης</persName> καὶ ἁθειτεῖ ⁑</p>
+                           </div>
+                       </div>
+                       <div n="21" type="scholion">
+                           <div n="lemma">
+                               <p>οὕτω που <persName n="urn:cite2:hmt:pers:pers8">διῒ</persName> μέλλει:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.23</p>
+                           </div>
+                           <div n="comment">
+                               <p>παρὰ τῷ <persName n="urn:cite2:hmt:pers:pers15">Ζενοδότῳ</persName> οὐκ ἐφέροντο οἱ τρεῖς- καὶ <persName n="urn:cite2:hmt:pers:pers300">Ἀριστότελης</persName> καὶ ἁθειτεῖ ⁑</p>
+                           </div>
+                       </div>
+                       <div n="22" type="scholion">
+                           <div n="lemma">
+                               <p>ἠ δ‘ ἐτί καὶ λύσει:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.25</p>
+                           </div>
+                           <div n="comment">
+                               <p>ὑπόψυχρον δισταζειν περὶ τῆς ἁλώσεως τῆς <placeName n="urn:cite2:hmt:place.v1:place6">Τροῖης</placeName> - ἐν τοιαύτη περιστάσει ὄντα</p>
+                           </div>
+                       </div>
+
+                       <div n="23" type="scholion">
+                           <div n="lemma">
+                               <p><choice><abbr>ἀκή</abbr><expan>ἀκήν</expan></choice></p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.29</p>
+                           </div>
+                           <div n="comment">
+                               <p>ἀγή τίς ἐστίν- οἱ γὰρ ὑπερβάλλοντες θαυμασμοὶ εκπλήασουσι πᾶσα δὲ ἔκπληξις, σιωπὴν ἄγει- ὡς καὶ τὸ βῆ δ‘ ἀκέων- ἀντι τοῦ</p>
+                           </div>
+                       </div>
+
+                   </div>
                 </body>
             </text>
         </group>
