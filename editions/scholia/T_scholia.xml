@@ -256,7 +256,7 @@
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.25</p>
                            </div>
                            <div n="comment">
-                               <p>ὑπόψυχρον δισταζειν περὶ τῆς ἁλώσεως τῆς <placeName n="urn:cite2:hmt:place.v1:place6">Τροῖης</placeName> - ἐν τοιαύτη περιστάσει ὄντα</p>
+                               <p>ὑπόψυχρον δισταζειν περὶ τῆς ἁλώσεως τῆς <placeName n="urn:cite2:hmt:place.v1:place6">Τροῖης</placeName> - ἐν τοιαύτη περιστάσει ὄντα ⁑</p>
                            </div>
                        </div>
 
@@ -268,10 +268,75 @@
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.29</p>
                            </div>
                            <div n="comment">
-                               <p>ἀγή τίς ἐστίν- οἱ γὰρ ὑπερβάλλοντες θαυμασμοὶ εκπλήασουσι πᾶσα δὲ ἔκπληξις, σιωπὴν ἄγει- ὡς καὶ τὸ βῆ δ‘ ἀκέων- ἀντι τοῦ</p>
+                               <p>ἀγή τίς ἐστίν- οἱ γὰρ ὑπερβάλλοντες θαυμασμοὶ εκπλήασουσι πᾶσα δὲ ἔκπληξις, σιωπὴν ἄγει- ὡς καὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.34</ref><q>βῆ δ‘ ἀκέων</q></cit>- ἀντι τοῦ <q>ἐκπλαγείς</q> - ἢ ἀχὴν παρὰ τὴν ἀχανίαν - <q>οὔτ' ἄν τι χανῶν δεόν</q> - ὅθεν καὶ <q>πρόχανα</q> - ἀκὴν ἐγένοντο τὸ εὐσταθὲς καὶ ἐν ταῖς συμφοραῖς τῶν <rs type="ethnic" n="urn:cite2:hmt:place:place96">Ἀχαιῶν</rs> δεδήλωται ⁑</p>
                            </div>
                        </div>
-
+                       <div n="24" type="scholion">
+                           <div n="lemma">
+                               <p>δὴν δ' ἄνεω ἦσαν:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.30</p>
+                           </div>
+                           <div n="comment">
+                               <p>οὔτε γὰρ μένοντες χρηστὴν εἶχον <choice><abbr>ἐλπίδ</abbr><expan>ἐλπίδα</expan></choice> <w>οὔ<unclear>τε</unclear></w> φεύγειν εὐκλεῶς ἡγοῦντο - ἅμα δὲ καὶ τὴν προτέρην πείραν εἰδότεσι ὑποπτεύουσι τίς ὁ νοῦς τοῦ λέγοντος - ἔοικε δὲ αὐτὸς ὁ ποιητὴς διστάζειν τίνα ἀντιτάξει τῇ ῥητορίᾳ <persName n="urn:cite2:hmt:pers:pers22">Ἀγαμέμνονος</persName> εὖ ἐχούσῃ καὶ κηδεμονικῶς ⁑</p>
+                           </div>
+                       </div>
+                       <div n="25" type="scholion">
+                           <div n="lemma">
+                               <p>ὀψὲ δὲ δὴ μετέειπε:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.31</p>
+                           </div>
+                           <div n="comment">
+                               <p>οἰκεία <persName n="urn:cite2:hmt:pers:pers215">Διομήδους</persName> ἡ ρητορία - τὸν γὰρ παραιβάτην <persName n="urn:cite2:hmt:pers:pers172">Ἕκτορος</persName> ἐφόνευσε - τὴν σώσασαν <persName n="urn:cite2:hmt:pers:pers129">Ἀλέξανδρον</persName> ἔτρωσε - τοὺς <persName n="urn:cite2:hmt:pers:pers142">Αἰνείου</persName> ἵππους ἔλαβε - <persName n="urn:cites:hmt:pers:pers44">Χρύσεα</persName> ὅπλα ἔσχεν - <persName n="urn:cite2:hmt:pers:pers227">Ἰδαίω</persName> μόνος ἀντεῖπες - τοὺς κεραυνοὺς μόνος ὑπέμεινεν - ἔφυγεν ὕστερος - ἐπέστρεψε πρῶτος - ὀνειδισθεὶς τὲ ὑπὸ <persName n="urn:cite2:hmt:pers:pers22">Ἀγαμέμνονος</persName>. εὐκαίρως αὐτῷ νῦν ἀντονειδίζει μετὰ τὴν ἀριστείαν ⁑</p>
+                           </div>
+                       </div>
+                       <div n="26" type="scholion">
+                           <div n="lemma">
+                               <p>σοὶ πρῶτα μαχήσομαι:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.32</p>
+                           </div>
+                           <div n="comment">
+                               <p>δῆλον ὡς - καὶ τοῖς ἄλλοισ μέμφεται ὡς συναινοῦσι τῇ φυγῇ διὰ τοῦ σιωπᾶν - μάχην δέ φησι τὴν ἐναντίωσιν τοῦ <choice><abbr>λο</abbr> <expan>λογοῦ</expan></choice> ⁑</p>
+                           </div>
+                       </div>
+                       <div n="27" type="scholion">
+                           <div n="lemma">
+                               <p>ἥ θέμισ ἐστὶν ἄναξ:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.33</p>
+                           </div>
+                           <div n="comment">
+                               <p>προδιόρθωσις - ἐπειδὴ σφοδρότερον αὐτοῦ μέλλει καθάπτεσθαι - ὡς ἐφιεμένου μὴ ἄλλοτε - ἐν δὲ ταῖς ἐκκλησίαις ἀντιλέγειν τοῖς βασιλεῦσιν - προπαραιτεῖται δὲ τὴν ὀργὴν, ἀξιῶν δόξασθαι τὴν πρὸς τὸ συμφέρον ἀλήσθειαν - καὶ δηλῶν ὡς τοῖς ἐιρημένοις οὐκ αὔτων ἀπέχθεται ⁑</p>
+                           </div>
+                       </div>
+                       <div n="28" type="scholion">
+                           <div n="lemma">
+                               <p>σὺ δὲ μήτι χολωθῆς:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.33</p>
+                           </div>
+                           <div n="comment">
+                               <p>ἁξιοπίστως εἰ καὶ οἶδεν καταθύμια αὐτῶν λέξων, ὅμως ἀναφέρει προτὸ στυγέει δὲ καὶ ἄλλο ⁑</p>
+                           </div>
+                       </div>
+                       <div n="29" type="scholion">
+                           <div n="lemma">
+                               <p>ἁλκὴν μέν μοι <choice><abbrev>πρῶτ</abbrev><expan>πρῶτον</expan></choice>:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.34</p>
+                           </div>
+                           <div n="comment">
+                               <p>πρῶτος ἀντὶ τοῦ ἐῖς καὶ μόνος - ὃν δὲ βαρύτατα φέρων ἠνέσχετο ψόγον δειλίας, περὶ τούτου /\/\/ πρῶτου /\/\ ἔρρηξε φωνὴν - ὁ θυμὸς γὰρ καὶ ἡ φιλοδοξία τοιοῦτον - παρεὶς τὴν ὑπὲρ eu/\/\ παρρησίαν πρῶτος εἰσήγαγεν ⁑</p>
+                           </div>
+                       </div>
                    </div>
                 </body>
             </text>
