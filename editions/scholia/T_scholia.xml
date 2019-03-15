@@ -191,7 +191,7 @@
                            <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.17</p>
                        </div>
                        <div n="comment">
-                           <p>οὐ πρὸς τὸ πλῆθος ἀποτείνεται - ἐπειὸν καὶ ἡγεμόνες μόνοι εἰσὶν οἱ παρόντες - τὴν μὲν πρώτην πείραν ὁ <persName n="urn:cite2:hmt:pers:pers22">Ἀγαμέμνων</persName> σύμπαντος τοῦ πλήθους ἐποιεῖτο - καὶ <cit><q>/\/\ὦ φίλοι ἥρωες <rs type="ethnic" n="urn:cite2:hmt:pers:pers66">Δαναοὶ</rs> θεράποντες <persName n="urn:cite2:hmt:pers:pers83">Ἄρηος</persName>/\/\</q></cit> ἔλεγεν - νῦν δὲ ταύτην δευτέραν πείραν εἰς τοὺς <rs type="ethnic" n="urn:cite2:hmt:place:place114">Ἀργείων</rs> ἡγέμονας <choice><abbr>φέρ</abbr><expan>φέρει</expan></choice>. δεδοικὼς μὴ καὶ τούτων τὴν γνώμην ἡ γενομένη ἧττα καὶ ὁ παρὰ τοῦ <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> φόβος ἀνέτρεψεν - ὅτι γὰρ ἀποπειρωμένου καὶ ἡ σύνοδιος αὕτη. δῆλον μὲν καὶ ἐξ ὧν <persName n="urn:cite2:hmt:pers:pers22">Ἀγαμέμνων</persName> τὴν τοῦ <persName n="urn:cite2:hmt:pers:pers215">Διομήδους</persName> ἐπίπληξιν φέρει - οὐκ ἐνεγκὼν τὴν τοῦ κρείττονος <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέως</persName> δικαιολογίαν - δῆλον δὲ καὶ ἐξ ὧν ὁ <persName n="urn:cite2:hmt:pers:pers117">Νέστωρ</persName> ὡς τὴν τοῦ βασιλέως γνώμην ἐπιστάμενος τὸν <persName n="urn:cite2:hmt:pers:pers215">Διομήδην</persName> ἐπαινεῖ - πρότερον ἐπιτιμήσας <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεῖ</persName>⁑</p>
+                           <p>οὐ πρὸς τὸ πλῆθος ἀποτείνεται - ἐπειὸν καὶ ἡγεμόνες μόνοι εἰσὶν οἱ παρόντες - τὴν μὲν πρώτην πείραν ὁ <persName n="urn:cite2:hmt:pers:pers22">Ἀγαμέμνων</persName> σύμπαντος τοῦ πλήθους ἐποιεῖτο - καὶ <cit><ref type="urn">urn:cts:greeklit:tlg0012.tlg001:2.110 </ref> <q>ὦ φίλοι ἥρωες <rs type="ethnic" n="urn:cite2:hmt:pers:pers66">Δαναοὶ</rs> θεράποντες <persName n="urn:cite2:hmt:pers:pers83">Ἄρηος</persName></q></cit> ἔλεγεν - νῦν δὲ ταύτην δευτέραν πείραν εἰς τοὺς <rs type="ethnic" n="urn:cite2:hmt:place:place114">Ἀργείων</rs> ἡγέμονας <choice><abbr>φέρ</abbr><expan>φέρει</expan></choice>. δεδοικὼς μὴ καὶ τούτων τὴν γνώμην ἡ γενομένη ἧττα καὶ ὁ παρὰ τοῦ <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> φόβος ἀνέτρεψεν - ὅτι γὰρ ἀποπειρωμένου καὶ ἡ σύνοδιος αὕτη. δῆλον μὲν καὶ ἐξ ὧν <persName n="urn:cite2:hmt:pers:pers22">Ἀγαμέμνων</persName> τὴν τοῦ <persName n="urn:cite2:hmt:pers:pers215">Διομήδους</persName> ἐπίπληξιν φέρει - οὐκ ἐνεγκὼν τὴν τοῦ κρείττονος <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέως</persName> δικαιολογίαν - δῆλον δὲ καὶ ἐξ ὧν ὁ <persName n="urn:cite2:hmt:pers:pers117">Νέστωρ</persName> ὡς τὴν τοῦ βασιλέως γνώμην ἐπιστάμενος τὸν <persName n="urn:cite2:hmt:pers:pers215">Διομήδην</persName> ἐπαινεῖ - πρότερον ἐπιτιμήσας <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεῖ</persName>⁑</p>
                        </div>
                    </div>
                    <div n="17" type="scholion">
@@ -334,7 +334,7 @@
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.34</p>
                            </div>
                            <div n="comment">
-                               <p>πρῶτος ἀντὶ τοῦ ἐῖς καὶ μόνος - ὃν δὲ βαρύτατα φέρων ἠνέσχετο ψόγον δειλίας, περὶ τούτου /\/\/ πρῶτου /\/\ ἔρρηξε φωνὴν - ὁ θυμὸς γὰρ καὶ ἡ φιλοδοξία τοιοῦτον - παρεὶς τὴν ὑπὲρ eu/\/\ παρρησίαν πρῶτος εἰσήγαγεν ⁑</p>
+                               <p>πρῶτος ἀντὶ τοῦ εἶς καὶ μόνος - ὃν δὲ βαρύτατα φέρων ἠνέσχετο ψόγον δειλίας, περὶ τούτου <choice><abbr>πρῶτ</abbr><expan>πρῶτου</expan></choice> ἔρρηξε φωνὴν - ὁ θυμὸς γὰρ καὶ ἡ φιλοδοξία τοιοῦτον - παρεὶς τὴν ὑπὲρ ἑμυτοῦ παρρησίαν πρῶτος εἰσήγαγεν ⁑</p>
                            </div>
                        </div>
                        <div n="30" type="scholion">
@@ -345,7 +345,7 @@
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.36</p>
                            </div>
                            <div n="comment">
-                               <p>ἀνεπαχθῆς διὰ τὸ σῶσαι /\/\ Νέστορα /\/\- διό φησι πολέμω ἐνι  καρτερός ἐσσι -  νέοι δὲ διὰ τὸν /\/\σθένελον /\/\- ὅτι δὲ ἡνίοχος ἦν τοῦ  διομήδους, καὶ τὰς ἀριστίας ἑώρα αὐτοῦ - καὶ γάρ φησι- μήτι φόβον δ' ἀγόρευε ⁑</p>
+                               <p>ἀνεπαχθῆς διὰ τὸ σῶσαι <persName n="urn:cite2:hmt:pers:pers117">Νέστορα</persName> - διό φησι πολέμω ἐνι  καρτερός ἐσσι -  νέοι δὲ διὰ τὸν <persName n="urn:cite2:hmt:pers:pers270">Σθένελον</persName> - ὅτι δὲ ἡνίοχος ἦν τοῦ <persName n="urn:cite2:hmt:pers:pers215">Διομήδους</persName>, καὶ τὰς ἀριστίας ἑώρα αὐτοῦ - καὶ γάρ φησι- μήτι φόβον δ' ἀγόρευε ⁑</p>
                            </div>
                        </div>
                        <div n="31" type="scholion">
@@ -361,13 +361,35 @@
                        </div>
                        <div n="32" type="scholion">
                            <div n="lemma">
-                               <p>ἀλκὴν δ' ὄυτοι δῶκε:</p>
+                               <p>ἀλκὴν δ' οὔτοι δῶκε:</p>
                            </div>
                            <div n="ref">
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.39</p>
                            </div>
                            <div n="comment">
-                               <p>καὶ ἀχιλλεὺς ταῦτα ὀνειδίζει- /\/\ ὀυ πειστέοι /\/\ δὲ ἀντιπολιτευόμενοι- τὰ δὲ ἀπαθῆ τῶν προσώπων ἱκανὰ πρὸς μαρτύρησιν-/\/\ ἀμφότερον /\/\ - βασιλεύς τ' ἀγαθὸς κρατερός τ' αἰχμητής- καὶ ἢ αὐτὸν βασιλῆα  ⁑</p>
+                               <p>καὶ <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεὺς</persName> ταῦτα ὀνειδίζει - ὀυ πειστέοι δὲ ἀντιπολιτευόμενοι- τὰ δὲ ἀπαθῆ τῶν προσώπων ἱκανὰ πρὸς μαρτύρησιν- <w><unclear>ἀ</unclear><gap extent = "1"/><unclear>φ</unclear>ότερον</w> - βασιλεύς τ' ἀγαθὸς κρατερός τ' αἰχμητής- καὶ ἢ αὐτὸν βασιλῆα ⁑</p>
+                           </div>
+                       </div>
+                       <div n="33" type="scholion">
+                           <div n="lemma">
+                               <p>ὅτε κράτος ἒστι μέγιστον:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.39</p>
+                           </div>
+                           <div n="comment">
+                               <p>τὸ ἄμφω κεκτῆσθαι- ὡς οὐ τέλειος εἴη βασιλεὺς- ὁ μὴ ἔχων τὰ δύο- ἢ ὅτι ὁ /\/\μεν ον/\/\ δύναται βασιλείαν περιποιεῖν- ἡ δὲ βασιλεία πρὸς κτῆσιν ἀλκῆς ἀδύνατοσ- δύο δέ εἰσι- τὸ μὲν ἐκ τύχησ- /\/\τὸ δὲ/\/\ ἐξ ἀρετῆς- ὃπερ ἀπο δέχεται ὁ ποιητής ⁑</p>
+                           </div>
+                       </div>
+                       <div n="34" type="scholion">
+                           <div n="lemma">
+                               <p>ἔρχεο πάρ τοι ὁδός- /\/\ἀλλ‘ ἄλλλοι μενέουσι/\/\:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.43</p>
+                           </div>
+                           <div n="comment">
+                               <p>πικρὰ μὲν τῷ ἀκούεσθαι- ἥδιστα δέ ἐστι τῶν νοεῖν- ταῦτα γὰρ ἀκούειν ἐθέλει <persName n="urn:cite2:hmt:pers:pers22">ἀγαμέμνων</persName> παρὰ τῶν <rs type="ethnic" n="urn:cite2:hmt:place:place96">ἀχαιῶν</rs>- ὡς ἐθελονταὶ τὸν κίνδυνον ἀναδέχονται- ὡς δημοκρατούμενοι. οὐ βιαζόμενοι ⁑</p>
                            </div>
                        </div>
                    </div>
