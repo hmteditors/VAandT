@@ -392,6 +392,39 @@
                                <p>πικρὰ μὲν τῷ ἀκούεσθαι- ἥδιστα δέ ἐστι τῶν νοεῖν- ταῦτα γὰρ ἀκούειν ἐθέλει <persName n="urn:cite2:hmt:pers:pers22">ἀγαμέμνων</persName> παρὰ τῶν <rs type="ethnic" n="urn:cite2:hmt:place:place96">ἀχαιῶν</rs>- ὡς ἐθελονταὶ τὸν κίνδυνον ἀναδέχονται- ὡς δημοκρατούμενοι. οὐ βιαζόμενοι ⁑</p>
                            </div>
                        </div>
+                       <div n="35" type="scholion">
+                           <div n="lemma">
+                               <p>ἃι τοι ἕποντο μυκήνηθεν:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.44</p>
+                           </div>
+                           <div n="comment">
+                               <p>τόυτων γὰρ ἄρχει μόνων οὐχ' ἑλλήνων- πῶς δὲ οὐκ αἰσχρὸν ἐλθόντα πολλῷ στόλῳ μάταιον ὑποχωρεῖν  ⁑</p>
+                           </div>
+                       </div>
+                       <div n="36" type="scholion">
+                           <div n="lemma">
+                               <p>ἀλλ' ἄλλοι μενέουσι:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.45</p>
+                           </div>
+                           <div n="comment">
+                               <p>ῥητορικῶς /\/\προενεχυριάζει/\/\ αὐτῶ τὴν γνώμην ⁑</p>
+                           </div>
+                       </div>
+                       <div n="37" type="scholion">
+                           <div n="lemma">
+                               <p>εἰ δὲ καὶ αὐτοὶ:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.46</p>
+                           </div>
+                           <div n="comment">
+                               <p> ⁑</p>
+                           </div>
+                       </div>
                    </div>
                 </body>
             </text>
