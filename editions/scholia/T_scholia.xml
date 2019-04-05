@@ -422,7 +422,40 @@
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.46</p>
                            </div>
                            <div n="comment">
-                               <p> ⁑</p>
+                               <p>τὸ <waw>ει</waw> παρακελευστικὸν φησι ὁ Νικάνωρ- ὡς τὸ εἰ δὲ σὺ μέν μευ ἄκουσον- ἀλλ' εἴ τις καλέσειεν- εἰ δ' ἄγε νῦν φίλε φοῖβε- φησι οὖν ἄγε δὴ καὶ αὐτοὶ φευγέτωσον εγὼ γὰρ καὶ Σθένελος  μαχούμεθα-⁑</p>
+                           </div>
+                       </div>
+                       <div n="38" type="scholion">
+                           <div n="lemma">
+                               <p></p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.46</p>
+                           </div>
+                           <div n="comment">
+                               <p>ἄλλως: εἰ δὲ καὶ αὐτοὶ φευγόντων- ὑποστικτέον εἰς τὸ αὐτοὶ καὶ λείπει τὸ θέλουσι φυγεῖν- ἢ κοινὸν τὸ ἐπέσσυνται ὥστε νέεσθαι- κομματικῶς εἶπεν- μιμούμενος τὸν θυμούμενον⁑</p>
+                           </div>
+                       </div>
+                       <div n="39" type="scholion">
+                           <div n="lemma">
+                               <p>ἐγὼ σθένελόσ τε</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.48</p>
+                           </div>
+                           <div n="comment">
+                               <p>οὐκ ἐδίστασε προτρεπόμενος⁑</p>
+                           </div>
+                       </div>
+                       <div n="40" type="scholion">
+                           <div n="lemma">
+                               <p>σὺν γὰρ θεῶ εἰλήλουθμεν</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.49</p>
+                           </div>
+                           <div n="comment">
+                               <p>τῶν λόγων τὸ ὑψηλὸν τῆ θεία- ῥοπῆ λύει- ἐστί δὲ ὅμοιον⁑</p>
                            </div>
                        </div>
                    </div>
