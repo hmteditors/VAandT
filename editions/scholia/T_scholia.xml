@@ -383,7 +383,7 @@
                        </div>
                        <div n="34" type="scholion">
                            <div n="lemma">
-                               <p>ἔρχεο πάρ τοι ὁδός- /\/\ἀλλ‘ ἄλλλοι μενέουσι/\/\:</p>
+                               <p>ἔρχεο πάρ τοι ὁδός- /\/\ἀλλ‘ ἄλλοι μενέουσι/\/\:</p>
                            </div>
                            <div n="ref">
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.43</p>
@@ -394,7 +394,7 @@
                        </div>
                        <div n="35" type="scholion">
                            <div n="lemma">
-                               <p>ἃι τοι ἕποντο μυκήνηθεν:</p>
+                               <p>ἃι τοι ἕποντο <placeName n="urn:cite2:hmt:place.v1:place5">Μυκήνηθεν</placeName>:</p>
                            </div>
                            <div n="ref">
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.44</p>
@@ -422,7 +422,7 @@
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.46</p>
                            </div>
                            <div n="comment">
-                               <p>τὸ <waw>ει</waw> παρακελευστικὸν φησι ὁ Νικάνωρ- ὡς τὸ εἰ δὲ σὺ μέν μευ ἄκουσον- ἀλλ' εἴ τις καλέσειεν- εἰ δ' ἄγε νῦν φίλε φοῖβε- φησι οὖν ἄγε δὴ καὶ αὐτοὶ φευγέτωσαν εγὼ γὰρ καὶ Σθένελος μαχούμεθα⁑</p>
+                               <p>τὸ <waw>ει</waw> παρακελευστικὸν φησι ὁ <persName n="urn:cite2:hmt:pers.v1:pers76">Νικάνωρ</persName>- ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:9.262</ref><q>εἰ δὲ σὺ μέν μευ ἄκουσον</q></cit>- <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.74</ref><q>ἀλλ' εἴ τις καλέσειεν</q></cit>- <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.667</ref><q>εἰ δ' ἄγε νῦν φίλε <persName n="urn:cite2:hmt:pers.v1:pers40">Φοῖβε</persName></q></cit>- φησι οὖν <q>ἄγε δὴ καὶ αὐτοὶ φευγέτωσαν εγὼ γὰρ καὶ <persName n="urn:cite2:hmt:pers.v1:pers270">Σθένελος</persName> μαχούμεθα</q>⁑</p>
                            </div>
                        </div>
                        <div n="38" type="scholion">
@@ -438,7 +438,7 @@
                        </div>
                        <div n="39" type="scholion">
                            <div n="lemma">
-                               <p>ἐγὼ σθένελόσ τε</p>
+                               <p>ἐγὼ <persName n="urn:cite2:hmt:pers.v1:pers270">Σθένελός</persName> τε</p>
                            </div>
                            <div n="ref">
                                <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.48</p>
@@ -456,6 +456,61 @@
                            </div>
                            <div n="comment">
                                <p>τῶν λόγων τὸ ὑψηλὸν τῆ θεία- ῥοπῆ λύει- ἐστί δὲ ὅμοιον⁑</p>
+                           </div>
+                       </div>
+                       <div n="41" type="scholion">
+                           <div n="lemma">
+                               <p>μετεφών<add place="supralinear">ε</add>εν ἱππότα <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName>:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.52</p>
+                           </div>
+                           <div n="comment">
+                               <p>καλῶς μετὰ τὸ μαθεῖν τὴν γνώμην τῶν <rs type="ethnic" n="urn:cite2:hmt:place:place96">Ἀχαιῶν</rs>. ἐπάγει τὸν λόγον ὁ <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> - μετεφώνεε <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> - ἡ σιωπὴ <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνονς</persName> ἀπόπειραν δευτέραν ἔχει τῶν <rs type="ethnic" n="urn:cite2:hmt:place:place3">Ἑλλήνων</rs> - οὔτε δὲ ἀντιπράσσει <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδει</persName> - θυμηδῆ γὰρ εἶπεν - οὔτε ὡς ἡδόμενος συναινεῖ - ἵνα μὴ πρὸς τὸ μέλλον ἄπιστον ἑαυτὸν καταστήσῃ τοιοῦτόν τι τεχνάσασθαι⁑</p>
+                           </div>
+                       </div>
+                       <div n="42" type="scholion">
+                           <div n="lemma">
+                               <p>περὶ μὲν πολέμῳ ἐνι κρατερός ἐσσι <del>:</del> καὶ βουλῇ παρὰ πάντας ὁμήλικας:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.53-9.54</p>
+                           </div>
+                           <div n="comment">
+                               <p>οἷς ἀμφοῖν ἐλοιδόρησε τὸν <choice><abbr>βασιλέ</abbr><expan>βασιλέα</expan></choice> - τούτοις αὐτὸν προὔχειν φησι - ἀλλ οὐκ ἄκρως - οὔτε γὰρ καρτερότωτος εἶπεν - ἵνα μὴ τοὺς ἄλλους τοὺς τῆς ἀνδρίας ἀντιποιουμένους λυπήσῃ - ἀλλὰ μετὰ πάντας ὁμήλικας - ἵνα μὴ τοὺς πρεσβυτέρους ἀνιάσῃ - ἄλλως τε καὶ ἀνατρέψαι αὐτοῦ τὸν λόγον βούλεται - διὸ οὐ συνετώτατον αὐτὸν καλεῖ ⁑</p>
+                           </div>
+                       </div>
+                       <div n="43" type="scholion">
+                           <div n="lemma">
+                               <p>ἐμὸς δ' κε πάϊς:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.57</p>
+                           </div>
+                           <div n="comment">
+                               <p>τῷ τῆς συγγενείας ὀνόματι. τὴν ἐξ αὐτοῦ ἐπισπᾶται εὔνοιαν⁑</p>
+                           </div>
+                       </div>
+                       <div n="44" type="scholion">
+                           <div n="lemma">
+                               <p>ἀτὰρ πεπνυμένα βάζης:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.58</p>
+                           </div>
+                           <div n="comment">
+                               <p>ὁρᾷς ὅσοι οἱ ἔπαινοι; σχεδὸν γὰρ αὐτῶν ἀπονέμει τὸ πᾶν τῆς συμβουλῆς - ὀλίγα αὐτὸς προσθήσει ἐνερῶν⁑</p>
+                           </div>
+                       </div>
+                       <div n="45" type="scholion">
+                           <div n="lemma">
+                               <p>ἐπειὸν κατα μοῖραν ἐείπας:</p>
+                           </div>
+                           <div n="ref">
+                               <p>urn:cts:greekLit:tlg0012.tlg001.burney_86:9.59</p>
+                           </div>
+                           <div n="comment">
+                               <p>τοῦτο ἀμφοῖν δύναται συντάσσεσθαι⁑</p>
                            </div>
                        </div>
                    </div>
